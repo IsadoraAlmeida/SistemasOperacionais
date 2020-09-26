@@ -1,5 +1,5 @@
 /*
-    Objetivo:  Implemente um programa que crie N processos, todos filhos do mesmo pai. N é um valor fornecido pelo
+    Objetivo:  Implementar um programa que crie N processos, todos filhos do mesmo pai. N é um valor fornecido pelo
 usuário. Todos os processos devem imprimir seu PID e PPID.
 /*
 

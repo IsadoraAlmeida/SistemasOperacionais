@@ -1,5 +1,5 @@
 /*
-Objetivo: Implemente um programa que crie uma cadeia de processos N processos (além do pai). A cadeia deve
+Objetivo: Implementar um programa que crie uma cadeia de processos N processos (além do pai). A cadeia deve
 obedecer a seguinte sequência: 1o processo cria o 2o processo, 2o processo cria o 3o processo, ..., No – 1
 processo cria o No processo. Cada processo deve imprimir seu PID e o PID do seu pai (ou PPID). Garanta
 que a informação exibida na tela ocorrerá na ordem inversa da criação dos processos, ou seja, inicialmente
